@@ -1,4 +1,4 @@
-package com.github.smmousavi.mmplayer.android
+package com.github.smmousavi.mmplayer.android.ui
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
